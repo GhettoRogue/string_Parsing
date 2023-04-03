@@ -1,0 +1,3 @@
+C:/Users/schoo/Desktop/Homework/Игнатьев В.В/Exercise 03.04.2023 String/cmake-build-debug/CMakeFiles/untitled21.dir
+C:/Users/schoo/Desktop/Homework/Игнатьев В.В/Exercise 03.04.2023 String/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/schoo/Desktop/Homework/Игнатьев В.В/Exercise 03.04.2023 String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
